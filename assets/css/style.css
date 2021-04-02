@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #649CFC;
+  color: #242434;
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #topbar .social-links a {
-  color: #649CFC;
+  color: #242434;
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #649CFC;
+  color: #242434;
   padding: 12px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -271,7 +271,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #649CFC;
+  color: #242434;
   text-decoration: none;
 }
 
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .mobile-nav-toggle i {
-  color: #649CFC;
+  color: #242434;
 }
 
 .mobile-nav-overly {
@@ -514,7 +514,7 @@ section {
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #649CFC;
+  color: #242434;
 }
 
 .section-title p {
@@ -765,7 +765,7 @@ section {
   display: block;
   font-size: 24px;
   font-weight: 400;
-  color: #649CFC;
+  color: #242434;
 }
 
 .about-lists .content-item h4 {
@@ -1120,7 +1120,7 @@ section {
   bottom: -48px;
   left: 20px;
   right: 20px;
-  background: linear-gradient(360deg, #649CFC 0%, rgba(92, 118, 141, 0.9) 35%, rgba(140, 167, 191, 0.8) 100%);
+  background: linear-gradient(360deg, #242434 0%, rgba(92, 118, 141, 0.9) 35%, rgba(140, 167, 191, 0.8) 100%);
   padding: 15px 0;
   border-radius: 4px;
 }
@@ -1162,7 +1162,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #649CFC;
+  color: #242434;
 }
 
 .team .member .social i {
@@ -1212,7 +1212,7 @@ section {
   color: #C41424;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #649CFC;
+  border: 2px dotted #242434;
 }
 
 .contact .info-box h3 {
@@ -1340,9 +1340,9 @@ section {
 }
 
 #footer .footer-top {
-  background: #649CFC;
-  border-top: 1px solid #649CFC;
-  border-bottom: 1px solid #649CFC;
+  background: #242434;
+  border-top: 1px solid #242434;
+  border-bottom: 1px solid #242434;
   padding: 60px 0 30px 0;
 }
 
@@ -1407,7 +1407,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #649CFC;
+  color: #242434;
   font-size: 18px;
   line-height: 1;
 }
@@ -1430,7 +1430,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #649CFC;
+  color: #242434;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1479,5 +1479,5 @@ section {
 }
 
 #footer .credits a {
-  color: #649CFC;
+  color: #242434;
 }
